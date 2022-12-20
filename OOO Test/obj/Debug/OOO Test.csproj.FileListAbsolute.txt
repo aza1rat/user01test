@@ -1,0 +1,16 @@
+C:\Users\1\Documents\CSharp\OOO Test\OOO Test\bin\Debug\OOO Test.exe.config
+C:\Users\1\Documents\CSharp\OOO Test\OOO Test\bin\Debug\OOO Test.exe
+C:\Users\1\Documents\CSharp\OOO Test\OOO Test\bin\Debug\OOO Test.pdb
+C:\Users\1\Documents\CSharp\OOO Test\OOO Test\bin\Debug\EntityFramework.dll
+C:\Users\1\Documents\CSharp\OOO Test\OOO Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\1\Documents\CSharp\OOO Test\OOO Test\bin\Debug\EntityFramework.xml
+C:\Users\1\Documents\CSharp\OOO Test\OOO Test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\1\Documents\CSharp\OOO Test\OOO Test\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\1\Documents\CSharp\OOO Test\OOO Test\obj\Debug\OOO Test.csproj.AssemblyReference.cache
+C:\Users\1\Documents\CSharp\OOO Test\OOO Test\obj\Debug\OOO Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\1\Documents\CSharp\OOO Test\OOO Test\obj\Debug\OOO_Test.Properties.Resources.resources
+C:\Users\1\Documents\CSharp\OOO Test\OOO Test\obj\Debug\OOO Test.csproj.GenerateResource.cache
+C:\Users\1\Documents\CSharp\OOO Test\OOO Test\obj\Debug\OOO Test.csproj.CoreCompileInputs.cache
+C:\Users\1\Documents\CSharp\OOO Test\OOO Test\obj\Debug\OOO Test.csproj.CopyComplete
+C:\Users\1\Documents\CSharp\OOO Test\OOO Test\obj\Debug\OOO Test.exe
+C:\Users\1\Documents\CSharp\OOO Test\OOO Test\obj\Debug\OOO Test.pdb
