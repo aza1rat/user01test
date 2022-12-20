@@ -57,11 +57,23 @@
   <ItemGroup>
     <Compile Include="EntityClasses\ModelDB.cs" />
     <Compile Include="EntityClasses\Role.cs" />
-    <Compile Include="View\Form1.cs">
+    <Compile Include="View\FormAuthorization.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="View\Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="View\FormAuthorization.Designer.cs">
+      <DependentUpon>FormAuthorization.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FormCatalogue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FormCatalogue.Designer.cs">
+      <DependentUpon>FormCatalogue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FormTemplate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FormTemplate.Designer.cs">
+      <DependentUpon>FormTemplate.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -74,6 +86,15 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="View\FormAuthorization.resx">
+      <DependentUpon>FormAuthorization.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FormCatalogue.resx">
+      <DependentUpon>FormCatalogue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FormTemplate.resx">
+      <DependentUpon>FormTemplate.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace OOO_Test
 {
-    public partial class Form1 : Form
+    public partial class FormCatalogue : Form
     {
-        public Form1()
+        public FormCatalogue()
         {
             InitializeComponent();
         }
